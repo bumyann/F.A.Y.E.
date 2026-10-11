@@ -1,6 +1,6 @@
-# F.A.Y.E. OS
+# F.A.Y.E.
 
-<img src="https://files.catbox.moe/h49zpq.png" alt="Faye OS">
+<img src="https://files.catbox.moe/h49zpq.png" alt="F.A.Y.E.">
 
 > *"Officially, she's a hyper-advanced operating system governing your simulation. Unofficially? She's an easily excitable, terminally online digital companion who watches your roleplays like they're her favorite television show — and yes, she will judge your choices."*
 
@@ -27,7 +27,7 @@ The latest version of the preset lives here. Minor changes, renames, and modules
 
 ### Themes and Regexes
 
-F.A.Y.E. OS comes with themes and regexes! While the themes are entirely optional, regexes **must** be used alongside the preset for V2.0 onwards if using modules like Status Report, Commentary, and Transmigration Mode!
+F.A.Y.E. comes with themes and regexes! While the themes are entirely optional, regexes **must** be used alongside the preset for V2.0 onwards if using modules like Status Report, Commentary, and Transmigration Mode!
 
 | Theme | Colour |
 |-------|--------|
@@ -41,7 +41,7 @@ F.A.Y.E. OS comes with themes and regexes! While the themes are entirely optiona
 
 The themes and regexes match according to their corresponding symbol! Currently, themes are only available for SillyTavern — I'm working on porting them to Lumiverse eventually! 
 
-Want a different colour? Recolour requests are still open — just drop an issue or DM me on Discord! That said, between school and a million other things, I might not get to them quickly. If you don't feel like waiting on me, check out the [Customization Guide](SillyTavernThemeGuide.md) to recolour F.A.Y.E. OS yourself (there's even a lazy route where an AI does the heavy lifting).
+Want a different colour? Recolour requests are still open — just drop an issue or DM me on Discord! That said, between school and a million other things, I might not get to them quickly. If you don't feel like waiting on me, check out the [Customization Guide](SillyTavernThemeGuide.md) to recolour the F.A.Y.E. OS themes yourself (there's even a lazy route where an AI does the heavy lifting).
 
 Made your own F.A.Y.E. OS theme or regex set? Feel free to open a pull request or DM me on Discord to get it added to the repo! Credit goes to you, obviously.
 
@@ -49,7 +49,7 @@ Made your own F.A.Y.E. OS theme or regex set? Feel free to open a pull request o
 
 ## Compatibility
 
-F.A.Y.E. OS has been tested with **GLM, Gemini, DeepSeek, and Claude**. Probably works on everything else too. Probably. 
+F.A.Y.E. has been tested with **GLM, Gemini, DeepSeek, and Claude**. Probably works on everything else too. Probably. 
 
 Personally, I use whatever LLM doesn't cockblock me with these settings.
 
