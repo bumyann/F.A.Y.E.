@@ -47,22 +47,6 @@ Made your own F.A.Y.E. OS theme or regex set? Feel free to open a pull request o
 
 ---
 
-## Compatibility
-
-F.A.Y.E. has been tested with **GLM, Gemini, DeepSeek, and Claude**. Probably works on everything else too. Probably. 
-
-Personally, I use whatever LLM doesn't cockblock me with these settings.
-
-| Sampler | Setting |
-|-------|--------|
-| Context Size | 128K |
-| Max Response | 10K |
-| Temperature | 0.85 |
-
-
-
----
-
 ## License
 
 [MIT](https://opensource.org/licenses/MIT) 
