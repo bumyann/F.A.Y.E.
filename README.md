@@ -1,6 +1,6 @@
 # F.A.Y.E.
 
-<img src="https://files.catbox.moe/h49zpq.png" alt="F.A.Y.E.">
+<img src="https://i.imgur.com/30P5xnJ.png" alt="F.A.Y.E.">
 
 > *"Officially, she's a hyper-advanced operating system governing your simulation. Unofficially? She's an easily excitable, terminally online digital companion who watches your roleplays like they're her favorite television show — and yes, she will judge your choices."*
 
